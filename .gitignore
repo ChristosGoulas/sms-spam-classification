@@ -1,0 +1,24 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Predictions and output CSVs
+submission.csv
+data/submission.csv
+CVfinal.csv
+TfIdffinal.csv
+outputs/
+
+# IDE & OS files
+.DS_Store
+.vscode/
